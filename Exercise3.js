@@ -2,7 +2,7 @@
 const xValue = i => {
     while (i > 0) {
         console.log(i);
-        i -= 0.5;+
+        i -= 0.5;
     }
 }
 xValue(10)
